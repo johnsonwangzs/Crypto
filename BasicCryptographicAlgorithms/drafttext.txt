@@ -1,0 +1,5 @@
+def encrypt():
+    输入明文m
+    输入密钥对(k,b)
+    if k mod 26 != 0
+    then 返回k不合法
