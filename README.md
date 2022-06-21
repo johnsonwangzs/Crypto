@@ -2,6 +2,34 @@
 Some crypto algorithms.
 
 Include:
-- SM4
+- Public key algorithms
+  - RSA
+  - ECC
+- Symmetric encryption algorithm
+  - SM4
+  - DES
+  - AES
+- Stream cipher
+  - ZUC
+  - RC4
 - Classic algorithms
-- Base64
+- Encoding
+  - Base64
+  - Hamming
+  - LZ78
+  - Huffman
+- DigitalSignature
+  - ElGamal
+  - RSA-PSS
+  - SM2
+  - ECC
+  - Schnorr
+  - HMAC
+- Hash
+  - HMAC
+  - SHA1
+  - MD5
+- Pseudo random number algorithm
+  - BBS
+- Key exchange algorithm
+  - DH/ECDH
